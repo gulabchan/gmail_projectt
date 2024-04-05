@@ -1,10 +1,10 @@
-# Gmail Clone with ReactJS
+# Gmail project with ReactJS
 
-A Gmail Clone that you can sign in with your Google Account, compose a new e-mail and send realtime emails to the project.
+A Gmail project that you can sign in with your Google Account, compose a new e-mail and send realtime emails to the project.
 
 Click demo to try it by yourself!
 
-## Gmail Clone Demo Link
+## Gmail project Demo Link
 
 You can view the site here
 [Click Me](https://gmaiil-clone-v1.web.app/)
