@@ -20,9 +20,7 @@ You can view the site here
 - Responsive Design
 - Deploy the App LIVE on Firebase
 
-## Author
 
-Özge Coşkun Gürsucu (codermother)
 
 In the project directory, you can run:
 
